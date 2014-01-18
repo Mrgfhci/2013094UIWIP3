@@ -1,0 +1,6 @@
+assets/herorightwalk1.png
+assets/herorightwalk2.png
+assets/herorightwalk3.png
+assets/herorightwalk4.png
+assets/herorightwalk5.png
+assets/herorightwalk6.png

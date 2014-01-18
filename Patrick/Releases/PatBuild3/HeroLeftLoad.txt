@@ -1,0 +1,10 @@
+assets/heroleft.png
+assets/heroleftblock.png
+assets/heroleftquick.png
+assets/heroleftstrong.png
+assets/heroleftwalk1.png
+assets/heroleftwalk2.png
+assets/heroleftwalk3.png
+assets/heroleftwalk4.png
+assets/heroleftwalk5.png
+assets/heroleftwalk6.png
